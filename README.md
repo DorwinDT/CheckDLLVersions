@@ -2,6 +2,8 @@
 
 simple tool for check referenced .NET DLL's in folder and show conflicts.
 
+tool doesn't check recursively
+
 ## sample
 
 There is sample app and checkdllversions tool prints:
