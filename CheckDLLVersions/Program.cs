@@ -8,6 +8,7 @@ class Program
 {
 	static void Main(string[] args)
 	{
+		Console.WriteLine("CheckDLLVersion v1.0");
 
 		if (args.Length == 0)
 		{
